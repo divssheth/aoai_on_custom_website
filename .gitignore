@@ -1,0 +1,3 @@
+.venv/
+credentials.env
+bing_agent.py
